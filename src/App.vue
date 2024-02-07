@@ -8,6 +8,7 @@ import MyOffer from '@/views/MyOffer.vue';
 import MyServices from '@/views/MyServices.vue';
 import TimeLine from '@/components/TimeLine.vue';
 import Accordion from './views/Accordion.vue';
+import Contact from './views/Contact.vue';
 
 //others
 import { useDark, useToggle } from '@vueuse/core';

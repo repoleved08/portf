@@ -34,7 +34,7 @@ const menus = ref([
 
 <template>
   <!-- ====== Footer Section Start -->
-  <footer class="relative z-10 bg-white dark:bg-dark pt-20 pb-10 lg:pt-[120px] lg:pb-20">
+  <footer class="relative px-4 z-10 bg-gray-200 backdrop-opacity-100 dark:bg-gray-900 dark:text-white pt-20 pb-10 lg:pt-[120px] lg:pb-20">
     <div class="container mx-auto">
       <div class="flex flex-wrap -mx-4">
         <div class="w-full px-4 sm:w-2/3 lg:w-3/12">
@@ -54,6 +54,7 @@ const menus = ref([
             <p class="text-base text-body-color dark:text-dark-6 mb-7">
               Sed ut perspiciatis undmnis is iste natus error sit amet voluptatem totam rem aperiam.
             </p>
+            
             <p class="flex items-center text-sm font-medium text-dark dark:text-white">
               <span class="mr-3 text-primary">
                 <svg
@@ -84,7 +85,7 @@ const menus = ref([
                   </defs>
                 </svg>
               </span>
-              <span>+012 (345) 678 99</span>
+              <span>+254714000481</span>
             </p>
           </div>
         </div>
@@ -96,7 +97,7 @@ const menus = ref([
               <li v-for="item in menu.items" :key="item.text">
                 <a
                   :href="item.link"
-                  class="inline-block text-base leading-loose text-body-color hover:text-primary dark:text-dark-6"
+                  class="inline-block text-base leading-loose text-body-color hover:text-blue-500 dark:hover:text-blue-500 dark:text-gray-200"
                 >
                   {{ item.text }}
                 </a>
@@ -150,7 +151,7 @@ const menus = ref([
                 </svg>
               </a>
             </div>
-            <p class="text-base text-body-color dark:text-dark-6">&copy; 2025 TailGrids</p>
+            <p class="text-base text-body-color dark:text-dark-6">&copy; 2024 NormanGeek1</p>
           </div>
         </div>
       </div>
@@ -210,6 +211,7 @@ const menus = ref([
           </defs>
         </svg>
       </span>
+      
     </div>
   </footer>
   <!-- ====== Footer Section End -->

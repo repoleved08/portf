@@ -166,7 +166,7 @@ const featuresItems = ref([
                     <div class="w-full px-4 md:w-1/2 lg:w-1/3">
                         <div
                             class="mb-9 rounded-[20px] dark:bg-gray-800 dark:border-gray-400  bg-white dark:bg-dark-2 p-10 shadow-md dark:shadow-sm-light hover:shadow-lg dark:hover:shadow-lg md:px-7 xl:px-10">
-                            <div class="bg-primary mb-8 flex h-[70px] w-[70px] items-center justify-center rounded-2xl"
+                            <div class="bg-primary bg-blue-500 mb-8 flex h-[70px] w-[70px] items-center justify-center rounded-2xl"
                                 v-html="item.icon"></div>
                             <div class="relative isolate px-6 pt-4 lg:px-8">
                                 <div class="absolute inset-x-0 -top-40 -z-10 transform-gpu overflow-hidden blur-3xl sm:-top-80"
