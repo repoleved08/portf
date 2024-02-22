@@ -21,14 +21,18 @@
         </fwb-timeline-point>
         <fwb-timeline-content>
           <fwb-timeline-time>
-            February 2022
+            (Nov 2023 – Present)
           </fwb-timeline-time>
           <fwb-timeline-title>
-            Application UI code in Tailwind CSS
+            Freelance Full-stack Developer
           </fwb-timeline-title>
           <fwb-timeline-body>
-            Get access to over 20+ pages including a dashboard layout, charts,
-            kanban board, calendar, and pre-order E-commerce & Marketing pages.
+            <ul class="list-disc list-inside">
+              <li>Developing a web-based application for a client in the healthcare industry using Blazor WebAssembly and Azure.</li>
+              <li>Building a web-based solution for a client in the education sector using Django and Vue.js.</li>
+              <li>Collaborating with clients to understand their requirements and deliver solutions that meet their needs.</li>
+              <li>Utilizing DevOps practices to ensure efficient development processes through CI/CD pipelines and infrastructure as code.</li>
+            </ul>
           </fwb-timeline-body>
         </fwb-timeline-content>
       </fwb-timeline-item>
@@ -43,14 +47,24 @@
         </fwb-timeline-point>
         <fwb-timeline-content>
           <fwb-timeline-time>
-            February 2022
+            (July 2023 – Oct 2023)
           </fwb-timeline-time>
           <fwb-timeline-title>
-            Application UI code in Tailwind CSS
+            C# Full-stack Developer at TheJitu
           </fwb-timeline-title>
           <fwb-timeline-body>
-            Get access to over 20+ pages including a dashboard layout, charts,
-            kanban board, calendar, and pre-order E-commerce & Marketing pages.
+
+              <ul class="list-disc list-inside">
+                <li>Developed a microservice project using ASP.NET Web API.</li>
+                <li>Implemented features for hospital management, demonstrating proficiency in backend development.</li>
+                <li>Built an e-commerce platform using ASP.NET Core and Blazor WebAssembly.</li>
+                <li>Collaborated effectively on GitHub, demonstrating proficiency in version control with Git.</li>
+                <li>Utilized Azure DevOps for project management, organizing work using tickets.</li>
+                <li>Implemented Continuous Integration and Continuous Deployment (CI/CD) pipelines on Azure for automated deployment.</li>
+                <li>Connected application services with Azure Message Bus, showcasing expertise in cloud-based services.</li>
+              </ul>
+
+
           </fwb-timeline-body>
         </fwb-timeline-content>
       </fwb-timeline-item>
@@ -65,17 +79,25 @@
         </fwb-timeline-point>
         <fwb-timeline-content>
           <fwb-timeline-time>
-            February 2022
+            (June 2022 - Sept 2022)
           </fwb-timeline-time>
           <fwb-timeline-title>
-            Application UI code in Tailwind CSS
+            Attachee at Ampath USAID
           </fwb-timeline-title>
           <fwb-timeline-body>
-            Get access to over 20+ pages including a dashboard layout, charts,
-            kanban board, calendar, and pre-order E-commerce & Marketing pages.
+          
+                <ul class="list-disc list-inside">
+                  <li>Collaborated with the developers of Ampath in completing and upgrading the system that the organization uses.</li>
+                  <li>Troubleshot network issues across the entire organization.</li>
+                  <li>Participated in meetings with stakeholders to discuss project progress and upcoming tasks.</li>
+                  <li>Conducted research on new technologies and tools that could improve the organization's systems and processes.</li>
+                  <li>Provided technical support to users by helping them troubleshoot issues or answering their questions about how to use the system.</li>
+                </ul>
+
           </fwb-timeline-body>
         </fwb-timeline-content>
       </fwb-timeline-item>
+     
     </fwb-timeline>
   </div>
 </template>

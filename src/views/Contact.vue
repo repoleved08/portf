@@ -5,15 +5,14 @@
             <div class="flex flex-wrap -mx-4 lg:justify-between">
                 <div class="w-full px-4 lg:w-1/2 xl:w-6/12">
                     <div class="mb-12 max-w-[570px] lg:mb-0">
-                        <span class="block mb-4 text-base font-semibold text-blue-500"> Contact Us </span>
+                        <span class="block mb-4 text-base font-semibold text-blue-500"> Contact Me</span>
                         <h2
                             class="text-dark dark:text-white mb-6 text-[32px] font-bold uppercase sm:text-[40px] lg:text-[36px] xl:text-[40px]">
-                            GET IN TOUCH WITH US
+                            GET IN TOUCH WITH ME
                         </h2>
                         <p class="text-base leading-relaxed text-body-color dark:text-dark-6 mb-9">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eius tempor incididunt
-                            ut labore et dolore magna aliqua. Ut enim adiqua minim veniam quis nostrud
-                            exercitation ullamco
+                            I'm available for freelance projects and open to new opportunities. Feel free to reach out
+                            if you have any questions or just want to say hi.
                         </p>
                         <div class="mb-8 flex w-full max-w-[370px]">
                             <div
@@ -26,9 +25,9 @@
                                 </svg>
                             </div>
                             <div class="w-full">
-                                <h4 class="mb-1 text-xl font-bold text-dark dark:text-white">Our Location</h4>
+                                <h4 class="mb-1 text-xl font-bold text-dark dark:text-white">Location</h4>
                                 <p class="text-base text-body-color dark:text-dark-6">
-                                    99 S.t Jomblo Park Pekanbaru 28292. Indonesia
+                                    Kenya Nyeri, 10100
                                 </p>
                             </div>
                         </div>
@@ -57,7 +56,7 @@
                             </div>
                             <div class="w-full">
                                 <h4 class="mb-1 text-xl font-bold text-dark dark:text-white">Phone Number</h4>
-                                <p class="text-base text-body-color dark:text-dark-6">(+62)81 414 257 9980</p>
+                                <p class="text-base text-body-color dark:text-dark-6">(+254)714000481</p>
                             </div>
                         </div>
                         <div class="mb-8 flex w-full max-w-[370px]">
@@ -72,7 +71,9 @@
                             </div>
                             <div class="w-full">
                                 <h4 class="mb-1 text-xl font-bold text-dark dark:text-white">Email Address</h4>
-                                <p class="text-base text-body-color dark:text-dark-6">info@yourdomain.com</p>
+                                <p class="text-base text-body-color dark:text-dark-6">
+                                    <a href="mailto: [email protected]" class="hover:underline"> [email protected]</a>
+                                </p>
                             </div>
                         </div>
                     </div>

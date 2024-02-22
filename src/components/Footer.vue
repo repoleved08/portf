@@ -3,30 +3,30 @@ import { ref } from 'vue'
 
 const menus = ref([
   {
-    title: 'Resources',
+    title: 'Services',
     items: [
-      { text: 'SaaS Development', link: 'javascript:void(0)' },
-      { text: 'Our Products', link: 'javascript:void(0)' },
-      { text: 'User Flow', link: 'javascript:void(0)' },
-      { text: 'User Strategy', link: 'javascript:void(0)' }
+      { text: 'Web Development', link: 'javascript:void(0)' },
+      { text: 'Mobile App Development', link: 'javascript:void(0)' },
+      { text: 'UI/UX Design', link: 'javascript:void(0)' },
+      { text: 'Digital Marketing', link: 'javascript:void(0)' }
     ]
   },
   {
-    title: 'Company',
+    title: 'Techxtrasol',
     items: [
-      { text: 'About TailGrids', link: 'javascript:void(0)' },
-      { text: 'Contact & Support', link: 'javascript:void(0)' },
-      { text: 'Success History', link: 'javascript:void(0)' },
-      { text: 'Setting & Privacy', link: 'javascript:void(0)' }
-    ]
-  },
-  {
-    title: 'Quick Links',
-    items: [
-      { text: 'Premium Support', link: 'javascript:void(0)' },
+      { text: 'About Us', link: 'javascript:void(0)' },
       { text: 'Our Services', link: 'javascript:void(0)' },
-      { text: 'Know Our Team', link: 'javascript:void(0)' },
-      { text: 'Download App', link: 'javascript:void(0)' }
+      { text: 'Our Team', link: 'javascript:void(0)' },
+      { text: 'Contact Us', link: 'javascript:void(0)' }
+    ]
+  },
+  {
+    title: 'Support',
+    items: [
+      { text: 'FAQs', link: 'javascript:void(0)' },
+      { text: 'Privacy Policy', link: 'javascript:void(0)' },
+      { text: 'Terms of Service', link: 'javascript:void(0)' },
+      { text: 'Contact Us', link: 'javascript:void(0)' }
     ]
   }
 ])
@@ -40,19 +40,10 @@ const menus = ref([
         <div class="w-full px-4 sm:w-2/3 lg:w-3/12">
           <div class="w-full mb-10">
             <a href="javascript:void(0)" class="mb-6 inline-block max-w-[160px]">
-              <img
-                src="https://cdn.tailgrids.com/2.0/image/assets/images/logo/logo.svg"
-                alt="logo"
-                class="max-w-full dark:hidden"
-              />
-              <img
-                src="https://cdn.tailgrids.com/2.0/image/assets/images/logo/logo-white.svg"
-                alt="logo"
-                class="max-w-full hidden dark:block"
-              />
+              Techxtrasol
             </a>
             <p class="text-base text-body-color dark:text-dark-6 mb-7">
-              Sed ut perspiciatis undmnis is iste natus error sit amet voluptatem totam rem aperiam.
+              Techxtrasol is a digital agency that specializes in web development, mobile app development, UI/UX design, we are edicated to delivering innovative solutions that blend technology with user experience.
             </p>
             
             <p class="flex items-center text-sm font-medium text-dark dark:text-white">

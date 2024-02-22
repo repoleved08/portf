@@ -2,50 +2,37 @@
     <div class="px-2 dark:bg-gray-800 dark:border-gray-700 ">
         <fwb-accordion :open-first-item="false">
             <fwb-accordion-panel>
-                <fwb-accordion-header>header</fwb-accordion-header>
+                <fwb-accordion-header>What tech stack Am i using?</fwb-accordion-header>
                 <fwb-accordion-content>
                     <div>
                         <p class="mb-2 text-gray-500 dark:text-gray-400">
-                            Flowbite is an open-source library of interactive components built on top of Tailwind CSS
-                            including buttons, dropdowns, modals, navbars, and more.
+                            I'm adept at mastering the latest .NET technologies, including .NET 6, and have a strong foundation in cloud services like Azure and AWS. My expertise extends to DevOps practices, ensuring efficient development processes through CI/CD pipelines and infrastructure as code.
                         </p>
-                        <p class="text-gray-500 dark:text-gray-400">
-                            Check out this guide to learn how to <a href="/docs/getting-started/introduction/"
-                                class="text-blue-600 dark:text-blue-500 hover:underline">get started</a> and start
-                            developing websites even faster with components on top of Tailwind CSS.
-                        </p>
+                       
                     </div>
                 </fwb-accordion-content>
             </fwb-accordion-panel>
             <fwb-accordion-panel>
-                <fwb-accordion-header>another header</fwb-accordion-header>
+                <fwb-accordion-header>Which is my previous project?</fwb-accordion-header>
                 <fwb-accordion-content>
                     <div>
                         <p class="mb-2 text-gray-500 dark:text-gray-400">
-                            Flowbite is first conceptualized and designed using the Figma software so everything you see in
-                            the library has a design equivalent in our Figma file.
+                            I have worked on a variety of projects, including a web-based application for a client in the healthcare industry. The application was built using Blazor WebAssembly and hosted on Azure. I also developed a web-based solution for a client in the education sector, using Django and Vue.js.
                         </p>
-                        <p class="text-gray-500 dark:text-gray-400">
-                            Check out the <a href="https://flowbite.com/figma/"
-                                class="text-blue-600 dark:text-blue-500 hover:underline">Figma design system</a> based on
-                            the utility classes from Tailwind CSS and components from Flowbite.
-                        </p>
+                        
                     </div>
                 </fwb-accordion-content>
             </fwb-accordion-panel>
             <fwb-accordion-panel>
-                <fwb-accordion-header>and one more header</fwb-accordion-header>
+                <fwb-accordion-header>
+                    What is my design process?
+                </fwb-accordion-header>
                 <fwb-accordion-content>
                     <div>
                         <p class="mb-2 text-gray-500 dark:text-gray-400">
-                            Flowbite is first conceptualized and designed using the Figma software so everything you see in
-                            the library has a design equivalent in our Figma file.
+                            My design process is centered around user experience and accessibility. I start by understanding the client's requirements and the target audience. I then create wireframes and prototypes to visualize the user journey and interactions. I use design tools like Figma to create high-fidelity designs and iterate based on feedback.
                         </p>
-                        <p class="text-gray-500 dark:text-gray-400">
-                            Check out the <a href="https://flowbite.com/figma/"
-                                class="text-blue-600 dark:text-blue-500 hover:underline">Figma design system</a> based on
-                            the utility classes from Tailwind CSS and components from Flowbite.
-                        </p>
+                       
                     </div>
                 </fwb-accordion-content>
             </fwb-accordion-panel>

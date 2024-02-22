@@ -6,11 +6,11 @@ import { onMounted, ref } from 'vue'
 const portfolioItems = ref([
   {
     image:
-      'https://cdn.tailgrids.com/2.0/image/marketing/images/portfolio/portfolio-01/image-01.jpg',
+      'https://x10aibots.com/home/assets/mockups/phones-1.png',
     category: 'Branding',
     title: 'Branding Design',
     buttonText: 'View Details',
-    buttonLink: '#'
+    buttonLink: 'https://x10aibots.com'
   },
   {
     image:
@@ -89,15 +89,14 @@ const filterItems = () => {
       <div class="-mx-4 flex flex-wrap">
         <div class="w-full px-4">
           <div class="mx-auto mb-[60px] max-w-[510px] text-center">
-            <span class="text-primary mb-2 block text-lg font-semibold"> Our Portfolio </span>
+            <span class="text-primary mb-2 block text-lg font-semibold"> My Portfolio </span>
             <h2
               class="text-dark mb-3 text-3xl leading-[1.208] font-bold sm:text-4xl md:text-[40px]"
             >
-              Our Recent Projects
+              My Recent Projects
             </h2>
             <p class="text-body-color text-base dark:text-dark-6">
-              There are many variations of passages of Lorem Ipsum available but the majority have
-              suffered alteration in some form.
+              Here are some of my recent projects. I have worked on a variety of projects, including branding, marketing, development, and design.
             </p>
           </div>
         </div>
